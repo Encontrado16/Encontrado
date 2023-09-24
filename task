@@ -1,0 +1,5 @@
+#EXTIM3U
+#EXTINF:-1, hbohd 
+http://216.238.67.192:8989/3995/hls/playlist.m3u8
+#EXTINF:-1, hbofa
+http://216.238.67.192:8989/3995/hls/playlist.m3u8
