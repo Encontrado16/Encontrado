@@ -1,8 +1,5 @@
 #EXTIM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tvUNC3.png" group-title="Entretenimiento", hbohd 
-http://216.238.67.192:8989/3995/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJfEaMT.png" group-title="Entretenimiento", hbofa
 http://216.238.67.192:8989/3999/hls/playlist.m3u8
 
@@ -19,7 +16,10 @@ http://e10.telerium.link:2052/free10/022/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://e10.telerium.link:2052/free10/041/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDEyOjU0OjQxIEFNJmhhc2hfdmFsdWU9VWZPZXp6TXVVSkhVQmZ3SWRTSnJFUT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rSuQ092.png" group-title="Entretenimiento", Star ch
-http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDEyOjU0OjA5IEFNJmhhc2hfdmFsdWU9UWN4QWhDVnV6S3c4VnVZWHVScHZxQT09JnZhbGlkbWludXRlcz0yNDA=
+http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDExOjExOjQyIFBNJmhhc2hfdmFsdWU9b01PT0FIL3ZlSGZ6cVlra1dFS1Nidz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tvUNC3.png" group-title="Entretenimiento", hbohd 
+http://216.238.67.192:8989/3995/hls/playlist.m3u8
+
+#EXTINF:-1, hbo2
 http://e10.telerium.link:2052/free10/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDY6NTI6MTkgUE0maGFzaF92YWx1ZT1FeHkxWnFmVWY5Y1R3YlVJTG44Y2hnPT0mdmFsaWRtaW51dGVzPTI0MA==
