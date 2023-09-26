@@ -10,3 +10,21 @@ http://video.weaverbog01live.online:8081/3982/hls/playlist.m3u8?wmsAuthSign=c2Vy
 http://173.255.201.122/saw/get.php?id=353231204c41543a2048424f20587472656d65&type=master.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/DJfEaMT.png" group-title=" group-title="All", BO Fa
 http://video.weaverbog01live.online:8081/3985/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6MjM6NTMgUE0maGFzaF92YWx1ZT1DeXdocFZGT0sweGpHL2I4WXBySWxRPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:0, tvg-logo="https://i.imgur.com/rSuQ092.png" group-title=" group-title="All", Str CH
+http://video.weaverbog01live.online:8081/4000/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6NDA6MDQgUE0maGFzaF92YWx1ZT1hSDFGRlVmVGdUVjNvR0RYK1JYeXF3PT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:0, tvg-logo="https://i.imgur.com/4XSR3k7.png" group-title="All", TMT
+http://video.weaverbog01live.online:8081/TNT/TNT/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6NDE6MjkgUE0maGFzaF92YWx1ZT1TNkx6OU44Y1YrdkRwUUtJQWNEbUdRPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:0, tvg-logo="https://i.imgur.com/dQvB7O2.png" group-title="All", Wrner
+http://173.255.201.122/saw/get.php?id=333435204c41543a205761726e6572204844&type=master.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/Cjq0hdC.png" group-title=" group-title="All", Spce
+http://video.weaverbog01live.online:8081/3992/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6NDM6NDYgUE0maGFzaF92YWx1ZT1ocXEvakxZcXJ0U0JhZVRPZzQycS93PT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:0, tvg-logo="https://i.imgur.com/OyTuF5E.png" group-title=", Paramnt
+http://video.weaverbog01live.online:8081/3988/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6NDQ6NDUgUE0maGFzaF92YWx1ZT1yaFg2VE0wS0FwenFaNE16N2VzQWRBPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:0, tvg-logo="https://i.imgur.com/OnGzgua.png" group-title="Cien/cult&Biograf"All", Animl Plnet
+http://173.255.201.122/saw/get.php?id=333030204c41543a20416e696d616c20506c616e6574204844&type=master.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/zxxsk2l.png" group-title="All", Discovr SC
+http://173.255.201.122/saw/get.php?id=333037204c41543a20446973636f7665727920536369656e6365204844&type=master.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/ADT0rV4.png" group-title=", NtGeo
+http://173.255.201.122/saw/get.php?id=3138342045533a204e6174696f6e616c2047656f67726170686963204844&type=master.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/oLdsuOS.png" group-title=" group-title=", Hstory
+http://video.weaverbog01live.online:8081/4005/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDk6NTE6NTggUE0maGFzaF92YWx1ZT1lVzNlaG8zaEwwZGxjcVI5b055WlBBPT0mdmFsaWRtaW51dGVzPTIyMA==
